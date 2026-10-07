@@ -12,6 +12,9 @@ A beginner-friendly Python project designed to help students manage everyday aca
 * Add and view personal notes
 * Save data automatically using JSON
 * Basic input validation and error handling
+  ## Project Preview
+
+![Student Life Organizer](student-life-organizer-menu.png)
 
 ## Technologies Used
 
