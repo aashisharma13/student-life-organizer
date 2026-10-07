@@ -14,7 +14,7 @@ A beginner-friendly Python project designed to help students manage everyday aca
 * Basic input validation and error handling
   ## Project Preview
 
-![Student Life Organizer](student-life-organizer-menu.png)
+![Student Life Organizer](./student-life-organizer-menu.png)
 
 ## Technologies Used
 
